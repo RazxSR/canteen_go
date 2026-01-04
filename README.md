@@ -41,5 +41,4 @@ flutter test
   ![Halaman Pesanan](screenshots/pesanan.jpg)
 - Halaman Keranjang  
   ![Halaman Keranjang](screenshots/keranjang.jpg)
-- Supabase tabel `menu_items`  
-  ![Supabase table menu_items](screenshots/supabase-table.jpg)
+
