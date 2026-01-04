@@ -1,12 +1,7 @@
 # CanteenGo – Praktikum Pemrograman Mobile 2
 
-**Nama**: _SITA NOVITASARI_  
-**NPM**: _085023006_  
-**Mata Kuliah**: _PRAKTIKUM PEMROGRAMAN MOBILE 2_
-
-Proyek ini menerapkan pola feature-first dengan pemisahan presentation, domain, data, dan core. Data menu dibaca dari Supabase dengan caching Isar, dan state dikelola dengan Riverpod.
-
-
+**Nama**: :_Razak Syauqi Rmaadhan_  
+**NPM**: _085023009_  
 ## Menjalankan
 ```bash
 flutter pub get
